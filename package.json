@@ -1,0 +1,14 @@
+{
+  "name": "hashlite",
+  "version": "1.0.0",
+  "description": "bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudit",
+  "license": "MIT",
+  "dependencies": {
+    "particlesjs": "^2.2.3"
+  }
+}

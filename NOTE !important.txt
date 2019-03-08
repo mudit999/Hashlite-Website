@@ -1,0 +1,7 @@
+1. Please use "live server" to view the particle effects made using particle.js of home page.
+2. I was trying to make layover but beacuse of some error, I have not 
+   completed but code of layover is present in comments. 
+   To solve problem, I have placed a screenshot of Main website of layover. 
+3. I have register for Google reCAPTCHA. So. I placed the screenshot that instead of 
+   registering and then placing.
+4. I tried my best to clone Hashlite. But was not able to same but similar.
