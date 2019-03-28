@@ -1,0 +1,61 @@
+
+.box_black{
+    color: 46495c;
+}
+
+.box_grey{
+    color: 818181;
+}
+body{
+    width: available;
+    height: available;
+}
+
+.container{
+    width: available;
+    height: available;
+}
+
+.leftpane{
+    width: 20%;
+    min-width: 375px;
+    height: available;
+    min-height: 400px;
+    float: left;
+    border-collapse: collapse;
+    margin-left: 100px;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+
+}
+
+.middlepane{
+   width: 30%;
+   min-width: 350px;
+   height: available;
+   min-height: 400px;
+   float: left;
+   border-collapse: collapse;
+   color: 46495c;
+    font-family: "Lato", sans-serif;
+}
+
+.rightpane{
+    width: 30%;
+    min-width: 350px;
+    min-height: 400px;
+    height: available;
+    position: relative;
+    margin-left: 65%;
+    border-collapse: collapse;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+}
+
+.toppane{
+    width: available;
+    height: 100px;
+    border-collapse: collapse;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+}

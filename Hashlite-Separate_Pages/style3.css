@@ -1,0 +1,83 @@
+.container{
+    background: #f0f4f7 !important;
+}
+.badge{
+    margin-top: 20px;
+    background: #fff;
+    font-weight: 400;
+}
+.btn_block{
+background: #1ecfca;
+color: #fff !important;
+width:97px;
+height:54px;
+font-family: "Lato", sans-serif;
+font-size: 20px;}
+.Price_card_1{
+    background-color: #17a2b8;
+
+}
+.best{
+    background-color: #17a2b8;
+}
+.Price_card{
+    background-color: #fff;
+}
+.fa fa-bitcoin text-primary{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+}
+
+body{
+    width: available;
+    height: available;
+}
+
+.container{
+    width: available;
+    height: available;
+}
+
+.leftpane{
+    width: 20%;
+    min-width: 375px;
+    height: available;
+    min-height: 400px;
+    float: left;
+    border-collapse: collapse;
+    margin-left: 100px;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+
+}
+
+.middlepane{
+   width: 30%;
+   min-width: 350px;
+   height: available;
+   min-height: 400px;
+   float: left;
+   border-collapse: collapse;
+   color: 46495c;
+    font-family: "Lato", sans-serif;
+}
+
+.rightpane{
+    width: 30%;
+    min-width: 350px;
+    min-height: 400px;
+    height: available;
+    position: relative;
+    margin-left: 65%;
+    border-collapse: collapse;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+}
+
+.toppane{
+    width: available;
+    height: 100px;
+    border-collapse: collapse;
+    color: 46495c;
+    font-family: "Lato", sans-serif;
+}
